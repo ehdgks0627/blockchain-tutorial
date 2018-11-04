@@ -124,3 +124,5 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/macos,pycharm,virtualenv
+.idea
+__pycache__
